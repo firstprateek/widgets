@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "dependencies": {
+    "@lit-labs/motion": "^1.0.3",
+    "lit": "^2.4.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35"
+  }
+}
